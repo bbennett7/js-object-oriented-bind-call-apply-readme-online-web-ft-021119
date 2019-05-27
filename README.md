@@ -6,7 +6,7 @@ You can follow along using your browser's JS console, or use `httpserver` to
 serve the provided `index.html`. The HTML file will automatically load
 `index.js` and edits you make there will be shown in your browser.
 
-## Objectives
+## Objectives 
 
 1.  Use `call()` and `apply()` to invoke a function with an explicit value for
     `this`
